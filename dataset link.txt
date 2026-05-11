@@ -1,3 +1,0 @@
-dataset here:
-
-https://github.com/DataPhish/PhishFuzzer
